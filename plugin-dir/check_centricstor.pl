@@ -119,7 +119,8 @@ sub parse_options(){
 #***************************************************#
 
 sub print_usage(){
-  print "Usage: $0 [-s <ssh>] [-v] [-w <warn>] [-c <critical>] [-V] -l <check> \n"; 
+  print "Usage: $0 -H <hostname> [-S <ssh>] [-v] [-w <warn>] [-c <critical>] [-V] -l <check> \n";
+  print "       [-P <plmcmd>] [-L <vlmcmd>]\n";
 }
 
 
