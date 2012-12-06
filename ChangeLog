@@ -1,0 +1,11 @@
+#*********************************************************#
+#                                                         #
+#    Changelog of check_centricstor plugin for            #
+#              Icinga/Nagios                              #
+#                                                         #
+#*********************************************************#
+
+* 0.1.0 - Thu Dec 06 2012
+- This is the first public beta release of new plugin
+  check_centricstor
+
