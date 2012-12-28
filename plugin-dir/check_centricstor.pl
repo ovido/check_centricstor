@@ -5,7 +5,7 @@
 #                                                     #
 #  Name:    check_centricstor                         #
 #                                                     #
-#  Version: 0.1.0                                     #
+#  Version: 1.0.0                                     #
 #  Created: 2012-12-05                                #
 #  License: GPL - http://www.gnu.org/licenses         #
 #  Copyright: (c)2012 ovido gmbh, http://www.ovido.at #
@@ -47,7 +47,7 @@ my $perfdata	= 1;
 
 # Variables
 my $prog	= "check_centricstor";
-my $version	= "0.1";
+my $version	= "1.0";
 my $projecturl  = "https://labs.ovido.at/monitoring/wiki/check_centricstor";
 
 my $o_verbose	= undef;	# verbosity

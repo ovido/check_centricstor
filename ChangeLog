@@ -5,6 +5,9 @@
 #                                                         #
 #*********************************************************#
 
+* 1.0 - Fri Dec 28 2012
+- This is the first stable release of plugin check_centricstor
+
 * 0.1.0 - Thu Dec 06 2012
 - This is the first public beta release of new plugin
   check_centricstor

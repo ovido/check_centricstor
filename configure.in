@@ -15,13 +15,13 @@
 
 
 AC_PREREQ([2.63])
-AC_INIT([check_centricstor], [0.1], [r.koch@ovido.at])
+AC_INIT([check_centricstor], [1.0], [r.koch@ovido.at])
 AM_INIT_AUTOMAKE
 
 AC_PREFIX_DEFAULT(/usr/local/nagios/libexec)
 PKG_NAME="check_centricstor"
-PKG_VERSION="0.1"
-PKG_REL_DATE="2012-12-06"
+PKG_VERSION="1.0"
+PKG_REL_DATE="2012-12-28"
 
 # Figure out how to invoke "install" and what install options to use
 AC_PROG_INSTALL

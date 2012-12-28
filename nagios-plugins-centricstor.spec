@@ -1,5 +1,5 @@
 Name:		nagios-plugins-centricstor
-Version:	0.1
+Version:	1.0
 Release:	1%{?dist}
 Summary:	CentricStor monitoring plugin for Nagios/Icinga
 
@@ -42,6 +42,9 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
+* Fri Dec 28 2012 Rene Koch <r.koch@ovido.at> 1.0-1
+- Initial build.
+
 * Thu Dec 6 2012 Rene Koch <r.koch@ovido.at> 0.1-1
 - Initial build.
 
