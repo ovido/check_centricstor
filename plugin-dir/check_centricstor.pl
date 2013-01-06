@@ -28,6 +28,12 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+# Changelog:
+# * 1.0.0 - Sun Jan 06 2013 - Rene Koch <r.koch@ovido.at>
+# - Released stable version
+# * 0.1.0 - Thu Dec 06 2012 - Rene Koch <r.koch@ovido.at>
+# - This is the first public beta release 
+
 
 use strict;
 use Getopt::Long;
